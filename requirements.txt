@@ -1,0 +1,18 @@
+# install torch / torchvision / torch-scatter first (see README)
+numpy<2
+scipy
+scikit-image
+scikit-learn
+opencv-python
+imageio
+matplotlib
+tqdm
+plyfile
+trimesh
+PyMCubes
+open3d==0.18.0  # newer wheels need GLIBCXX_3.4.29
+pyrender
+mmengine
+ninja
+tensorboard
+timm  # Metric3D
